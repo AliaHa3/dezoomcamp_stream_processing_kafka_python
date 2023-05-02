@@ -1,2 +1,0 @@
-# dezoomcamp_stream_processing_kafka_python
-dataengineering zoomcamp stream processing kafka python
